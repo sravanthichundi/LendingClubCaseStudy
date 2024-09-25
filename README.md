@@ -67,4 +67,4 @@ The dataset is the csv file provided which has complete loan data for all loans 
 This project was inspired by UpGrad IIITB Programme as a case study for the Artificial Intelligence Machine Learning course.
 
 ## Case Study Collaborators
-Created by [@sravanthichundi] [@]
+Created by [@sravanthichundi] [@srinivasnv2]
